@@ -1,0 +1,51 @@
+Highlights of the project:
+
+Part 1: global
+1. Analysis of COVID 19 spread across the globe
+( Total cases, recovered cases, diseased and mortality rate)
+
+2. Nations' competency to tackle corona
+
+3. Analysis of impact of weather conditions on COVID 19
+(temperature, humidity, windspeed)
+
+4. Countrywise Corona Outbreak analysis
+
+
+Part 2: National(India)
+
+1. Corona outbreak in India
+
+2. State wise analysis
+
+3. Analysis of daily corona cases count
+
+4.Statewise mortality rate caused by Corona virus
+
+5. Analysis of current scenario
+
+6. Analysis of Indian Medical Facilities at deployment
+(Urban, rural, district, public, primary health
+care centres, hospital beds count by state)
+
+
+7. ICMR testing details
+
+8. Impact of Corona on different age groups
+
+9. Identifying patients on basis of travel history
+
+10. Estimation of realistic no. Of cases in India
+( Parameters: doubling_rate, mortality_rate and days_to_death)
+
+11. Covid-19 Vs. Italy, S.Korea and India
+
+Part 3:
+
+1. Forecasting rise in cases using ML algorithms
+(SVR, POLY REGRESSION AND BAYESIAN REGRESSION)
+
+
+Part 4:
+
+1. Conclusion and Recommendations
